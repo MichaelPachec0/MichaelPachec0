@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning multiple languages, and  relearning calculus.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: 
-   - m1chael#355(Zer0) on discord
+   - m1chael#355(Zer0) on <img src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" width="25px">
 <!---
 MichaelPachec0/MichaelPachec0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
