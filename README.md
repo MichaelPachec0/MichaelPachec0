@@ -2,7 +2,8 @@
 - 👀 I’m interested in Programing and the Outdoors.
 - 🌱 I’m currently learning multiple languages, and  relearning calculus.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: TODO, will do ASAP!
+- 📫 How to reach me: 
+   - m1chael#355(Zer0) on discord
 <!---
 MichaelPachec0/MichaelPachec0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
