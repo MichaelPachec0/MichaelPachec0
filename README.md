@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelPachec0&theme=gruvbox&layout=compact&langs_count=10&card_width=320" />
 </a>
 <a href="https://github.com/MichaelPachec0">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=michael&api_domain=wakapi.dev&theme=gruvbox&custom_title=Programing%20Week%20Stats&layout=compact&card_width=250" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=michael&api_domain=wakapi.dev&theme=gruvbox&custom_title=Programing%20Week%20Stats&layout=compact&card_width=400" />
 </a>
 
 [![Code Wars](https://www.codewars.com/users/m1cha3l/badges/large)](https://www.codewars.com/users/m1cha3l/)
